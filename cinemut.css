@@ -185,6 +185,7 @@ nav ul {
   }
   .slider-nav {
     column-gap: 1.5rem;
+    bottom: 1rem;
 }
 }
 
